@@ -4,6 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Keepin/MyQuiz/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyQuiz/app/src/main/res/drawable-v24/wrong_option_border_bg.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyQuiz/app/src/main/res/drawable/correct_option_border_bg.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyQuiz/app/src/main/res/drawable/default_option_border_bg.xml" value="0.28854166666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyQuiz/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyQuiz/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyQuiz/app/src/main/res/layout/activity_quiz_questions.xml" value="0.2015625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyQuiz/app/src/main/res/layout/activity_result.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
